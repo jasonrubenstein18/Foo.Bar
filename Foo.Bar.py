@@ -1,5 +1,5 @@
 """
-Formatting here isn't great, didn't anticipate loading to GitHub and can't go back to prompts on solved problems
+Formatting here isn't great, on lv4 currently
 """
 
 list = [1, 2, 3, 4, 4, 5, 6]
